@@ -105,7 +105,7 @@ OCR_LANGUAGE = "eng"
 #     r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 # )
 
-TESSERACT_PATH = None
+TESSERACT_PATH = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # Minimum OCR confidence for automatic acceptance.
 # This is a preliminary threshold and will be
